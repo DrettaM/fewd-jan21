@@ -1,3 +1,32 @@
 .title {
-    color: purple;
+    color: whitesmoke;
 }
+
+.image {
+    width: 100%;
+    height: auto;
+    max-width: 600px;
+}
+
+@media only screen and (max-width: 600px) {
+    body {
+        background-color: pink;
+    }
+}
+
+@media only screen and (min-width: 601px) {
+    body {
+        background-color: violet;
+    }
+}
+
+@media only screen and (min-width: 800px) {
+    body {
+        background-color: purple;
+    }
+    header {
+        background-color: turquoise;
+        color: lightcoral;
+    }
+}
+
