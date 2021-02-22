@@ -2,6 +2,11 @@
     color: whitesmoke;
 }
 
+.link {
+    color: rgb(0, 130, 43);
+    text-shadow: honeydew;
+}
+
 .image {
     width: 100%;
     height: auto;
