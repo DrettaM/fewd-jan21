@@ -2,6 +2,16 @@
     color: whitesmoke;
 }
 
+.list {
+    font-size: 1.5em;
+    color:antiquewhite;
+}
+
+.list-item {
+    font-size: 1.25em;
+    color: lavenderblush;
+}
+
 .link {
     color: rgb(0, 130, 43);
     text-shadow: honeydew;
